@@ -17,3 +17,6 @@
 ### Other References: 
 
 1. 利用SQLite3 快速验证自己的想法：[基操](https://www.sqlitetutorial.net/sqlite-commands/)
+
+2. How to use Sqlite3? [sqlite3_basics]()
+
