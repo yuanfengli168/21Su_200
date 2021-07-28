@@ -1,7 +1,7 @@
 Yuanfeng Li
 20210728
 
-- the idear from leetcode #196. Delete Duplicate Emails
+- the idea from leetcode #196. Delete Duplicate Emails
 
 ```
 
